@@ -3,4 +3,4 @@ Repo containing my practice/ implementation notebooks on artificial neural netwo
 
 
 Viz tools :
-https://www.deeplearning.ai/ai-notes/initialization/
+https://www.deeplearning.ai/ai-notes/initialization/ .
